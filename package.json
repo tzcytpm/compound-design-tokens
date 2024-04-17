@@ -19,9 +19,9 @@
   "main": "assets/web/js/index.js",
   "author": "",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/vector-im/compound-design-tokens",
+  "homepage": "https://github.com/tzcytpm/compound-design-tokens",
   "bugs": {
-    "url": "https://github.com/vector-im/compound/issues"
+    "url": "https://github.com/tzcytpm/compound/issues"
   },
   "repository": {
     "type": "git",
